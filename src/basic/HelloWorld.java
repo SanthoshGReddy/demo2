@@ -7,9 +7,6 @@ public class HelloWorld {
 		System.out.println("First-----Line-----");
 		System.out.println("Seond-----Line-----");
 		System.out.println("Third-----Line-----");
-
-
-
 	}
 
 }
